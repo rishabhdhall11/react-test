@@ -1,0 +1,84 @@
+{
+  "contacts": [
+    {
+      "id": "65747ed4-b09b-411d-a9e8-edb9788e572b",
+      "name": "Anku",
+      "email": "cael.engineering.team@elevateservices.com"
+    },
+    {
+      "id": "cfef39c9-9b92-4ad0-a602-0a2ee5854f08",
+      "name": "Rishu",
+      "email": "cael.engineering.team1@elevateservices.com"
+    },
+    {
+      "id": "951cd617-95fc-4046-922d-54b699d1fa88",
+      "name": "Amit",
+      "email": "rishabhdhall11@gmail.com"
+    },
+    {
+      "id": "54696cda-e372-45d2-b2ec-0cdc4a82a913",
+      "name": "Rishabh Dhall",
+      "email": "rishabh.dhall@elevateservices.com"
+    },
+    {
+      "id": "feeb10b9-a379-44b7-af6c-d12870e6a560",
+      "name": "Rishabh Dhall",
+      "email": "sanjeevbjcl@gmail.com"
+    },
+    {
+      "id": "2b1f7bfb-939c-4003-bf81-153dd75bdf72",
+      "name": "Rishu",
+      "email": "sanjeevbjcl@gmail.com"
+    },
+    {
+      "id": "7e4c9379-35c8-4330-a3ac-e22b8e910d38",
+      "name": "Rishabh Dhall",
+      "email": "rishabh.dhall@elevateservices.com"
+    },
+    {
+      "id": "b237b252-6064-4da2-a063-d8b8da37b5cd",
+      "name": "Rishabh Dhall",
+      "email": "rishabh.dhall11@elevateservices.com"
+    },
+    {
+      "id": "f5a7b426-c5a3-4982-a2e7-c01d501e3bdc",
+      "name": "asasa",
+      "email": "abc@gmail.com"
+    },
+    {
+      "id": "0174162d-70ec-42fa-bde5-7e892321d9a4",
+      "name": "Rishu",
+      "email": "cael.engineering.team@elevateservices.com"
+    },
+    {
+      "id": "668f02d8-c500-4ca2-b3fb-8ee822dd7371",
+      "name": "Rishabh Dhall",
+      "email": "sanjeevbjcl@gmail.com"
+    },
+    {
+      "id": "528de7e8-3ddd-41e3-ac27-5a4c5f8d5d9d",
+      "name": "Rishu",
+      "email": "rishabhdhall11@gmail.com"
+    },
+    {
+      "id": "a8765d96-4401-41ed-9c47-c4498bc82d87",
+      "name": "Rishu",
+      "email": "sanjeevbjcl@gmail.com"
+    },
+    {
+      "id": "7db0e29f-2dc8-48b9-8775-2afe401222d2",
+      "name": "Rishu",
+      "email": "sanjeevbjcl@gmail.com"
+    },
+    {
+      "id": "b8fb789e-319f-49c9-8d95-d7ad0828c27e",
+      "name": "Amit",
+      "email": "9711938877"
+    },
+    {
+      "id": "4f267dd0-c866-4e48-bb29-4726c25b5313",
+      "name": "asasa",
+      "email": "abc@gmail.com"
+    }
+  ]
+}
